@@ -1,0 +1,1 @@
+ I asked chat to fart to write me an Arduino code for my little Hugo which will show me a circle in the middle of the screen with the text Seb in the middle of it this is what comes out to me I copy the  code I paste it in the Arduino I compile the sketch and I pour them on my card and subscribe
